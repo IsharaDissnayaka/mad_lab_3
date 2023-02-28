@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MAd_TUE</string>
+    <string name="tv_number1">Number 01</string>
+    <string name="tv_number2">Number 02</string>
+    <string name="tv_number01">Number02</string>
+    <string name="edittext1">Edit Text</string>
+    <string name="EditText2">Edit Text</string>
+    <string name="add">+</string>
+    <string name="decriment">-</string>
+    <string name="multiple">*</string>
+    <string name="division">/</string>
+    <string name="tv_Answer">Answer</string>
+    <string name="tv_Edit">Edit Text</string>
+    <string name="btn_back">Back</string>
+</resources>
